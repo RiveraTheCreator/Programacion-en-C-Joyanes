@@ -1,8 +1,8 @@
 /* 
-Program: Ejercicio 4.4 
+Program: Ejercicio 4.1 
 Developer: RiveraTheCreator
-Date:08/sep/2021
-Version:0
+Date:11/sep/2021
+Version:0.01
 Instrucciones:leer 2 numeros de 3 digitos e imprimir el cociente, producto, y el resto
 */
 #include <stdio.h>
