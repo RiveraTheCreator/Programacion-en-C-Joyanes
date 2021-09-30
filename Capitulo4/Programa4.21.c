@@ -3,7 +3,7 @@ Program: Ejercicio 4.21
 Developer: RiveraTheCreator
 Date:28/sep/2021
 Version:0
-Instrucciones: Calcula la hipotenusa
+Instrucciones: 
 */
 #include <stdio.h>
 #include <stdlib.h>
